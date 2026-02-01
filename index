@@ -3,23 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <title>Research TikTok Gender Methodology</title>
-    
+
     <!-- TikTok verification meta tag -->
     <meta name="tiktok-site-verification" content="uppRczbS5fhWEyRhcLBNt2y3tjKDFQbb"/>
-    
-    <!-- Optional: links to Privacy Policy and Terms -->
-    <link rel="privacy" href="privacy.html">
-    <link rel="terms" href="terms.html">
 </head>
 <body>
     <h1>Research TikTok Project</h1>
     <p>Welcome! This project collects publicly available TikTok data for academic research purposes.</p>
 
-    <h2>Project Links</h2>
     <ul>
         <li><a href="privacy.html" target="_blank">Privacy Policy</a></li>
         <li><a href="terms.html" target="_blank">Terms of Service</a></li>
     </ul>
 </body>
 </html>
-
